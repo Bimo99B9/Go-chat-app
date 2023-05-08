@@ -2,6 +2,10 @@
 
 DS Gochat App is a real-time chat application built using Golang, ReactJS, and Redis. This project demonstrates how to use Golang for the backend, ReactJS for the frontend, and Redis as the database for efficient and fast communication between users.
 
+![](assets/home.png)
+![](assets/chat.png)
+![](assets/search.png)
+
 ## Prerequisites
 
 Before starting the development work, make sure you have already installed the following prerequisites:
