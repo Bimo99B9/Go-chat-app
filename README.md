@@ -18,7 +18,7 @@ Follow the steps below to set up and run the DS Gochat App:
 ### Backend
 
 1. Clone the repository and navigate to the project folder.
-2. Open the `.env` file and fill in your Redis Cloud credentials (REDIS_HOST, REDIS_PORT, and REDIS_PASSWORD).
+2. Open the `.env` file and fill in your Redis Cloud credentials (REDIS_CONNECTION_STRING and REDIS_PASSWORD).
 
 To start the HTTP server, run the following command:
 
